@@ -118,7 +118,7 @@ body {
 @media screen and (max-width: 768px) {
   .header {
     position: relative;
-    height: 500px;
+    height: 100vh;
   }
 }
 
@@ -197,7 +197,6 @@ body {
   font-size: 20px;
   color: #ECECEC;
   font-weight: 400;
-  letter-spacing: 6px;
 }
 
 @media screen and (max-width: 960px) {
@@ -232,22 +231,16 @@ body {
 }
 
 .logo {
-  /* background: url(../img/logo.png) */
-  width: 149px;
-  height: 77px;
+  font-size: 50px;
+  text-align: center;
   display: block;
-  margin: 0 auto;
-}
-
-.logo img {
-  height: auto;
-  width: 100%;
+  text-decoration: none;
+  color: #ED552C;
 }
 
 @media screen and (max-width: 768px) {
   .logo {
-    width: 120px;
-    height: 62px;
+    font-size: 30px;
   }
 }
 
