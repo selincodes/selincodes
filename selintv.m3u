@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTGRP:Разные
+
+#EXTINF:-1 tvg-logo="http://s240175.smrtp.ru/logo/1.png", Украина
+http://78.26.128.52:6666
+
+#EXTINF:-1 tvg-logo="http://s240175.smrtp.ru/logo/1+1.png", 1+1
+http://109.95.47.229:809/120cas/index.m3u8
+
+#EXTINF:0,Amedia Hit HD
+http://45.143.205.112:1000/play/amedia-hit-hd/index.m3u8
+#EXTINF:0,Amedia Premium HD
+http://45.143.205.112:1000/play/amedia-premium-hd/index.m3u8
+#EXTINF:0,История
+http://45.143.205.112:1000/play/istoriya/index.m3u8
+#EXTINF:-1,Еврокино
+http://178.124.183.14/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
+
+#EXTINF:-1, Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+
+#EXTINF:-1 , К1
+http://109.68.40.67/life/k1_3/index.m3u8
+
+#EXTINF:-1, НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1, МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:-1, 112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
+#EXTINF:0,Первый канал
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+
+#EXTINF:-1,G TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+
+#EXTINF:-1, Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:-1,7 канал Одесса HD
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+
+#EXTGRP:Развлекательные
+
+#EXTINF:-1, ТНТ HD (auto)
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+
+#EXTINF:-1, СТС
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+
+#EXTINF:-1, ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565880177/02c722166c67789201c2563e9dad203f/playlist.m3u8
+
+#EXTINF:-1, Супер HD
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+
+#EXTGRP:Фильмы
+
+#EXTINF:-1,TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
+
+#EXTINF:-1,TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
+
+#EXTINF:-1, TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
+
+#EXTGRP:Музыкальные
+
+#EXTINF:-1, M2
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1, RU TV
+https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
+
+#EXTINF:0, Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+#EXTGRP:Познавательные
+
+#EXTINF:-1, Discovery Channel HD
+http://217.25.216.4:8085/udp/238.2.16.147:1234
+
+#EXTINF:-1, Viasat History
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+
+#EXTINF:-1, Авто 24
+http://220.79.125.230:8080/play/a00y/index.m3u8
+
+#EXTINF:-1,Авто Плюс
+http://46.32.68.167/s/live/817/86.169.51.136/0/0.m3u8
+
+#EXTINF:-1,DTX
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+
+#EXTGRP:Детские
+
+#EXTINF:-1, Мама
+http://46.32.68.167/s/live/415/86.169.51.136/0/0.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+
+#EXTINF:0,Мульт
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+
+#EXTINF:-1,Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
