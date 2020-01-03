@@ -1,34 +1,30 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 
-
-#EXTGRP: Украинские
-#EXTINF:-1 tvg-id="1plus1" tvg-logo="http://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
+#EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
 http://str1.fox-tv.fun:80/1plus1/mono.m3u8?token=happy_new_year_2020
-#EXTINF:-1 tvg-id="inter-ua" tvg-logo="http://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
+#EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 tvg-id="ukraina" tvg-logo="http://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
+#EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
 http://78.26.128.52:6666
-#EXTINF:-1 tvg-id="k1-ua" tvg-logo="http://selincodes.github.io/iptv/logo/k1-ua.jpg", К1
+#EXTINF:-1 tvg-id="k1-ua" tvg-logo="https://selincodes.github.io/iptv/logo/k1-ua.jpg", К1
 http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 tvg-id="ntn-ua" tvg-logo="http://selincodes.github.io/iptv/logo/ntn-ua.jpg", НТН
+#EXTINF:-1 tvg-id="ntn-ua" tvg-logo="https://selincodes.github.io/iptv/logo/ntn-ua.jpg", НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1 tvg-id="112-ua" tvg-logo="http://selincodes.github.io/iptv/logo/112-ua.jpg", 112 Украина HD
+#EXTINF:-1 tvg-id="112-ua" tvg-logo="https://selincodes.github.io/iptv/logo/112-ua.jpg", 112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
-#EXTGRP: Российские
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="http://selincodes.github.io/iptv/logo/ntv.jpg", НТВ
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://selincodes.github.io/iptv/logo/ntv.jpg", НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 
-#EXTGRP:Фильмы
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://selincodes.github.io/iptv/logo/evrokino.jpg", Еврокино
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://selincodes.github.io/iptv/logo/evrokino.jpg", Еврокино
 http://178.124.183.14/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://selincodes.github.io/iptv/logo/tv1000.jpg", TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000.jpg", TV1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://selincodes.github.io/iptv/logo/tv1000-action.jpg", TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000-action.jpg", TV1000 Action
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="http://selincodes.github.io/iptv/logo/tv1000-russkoe-kino.jpg", TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000-russkoe-kino.jpg", TV1000 Русское кино
 http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
 
 #EXTGRP: Познавательные
