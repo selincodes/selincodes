@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
-http://str1.fox-tv.fun:80/1plus1/mono.m3u8?token=happy_new_year_2020
+https://live-k2302-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
@@ -12,6 +12,8 @@ http://109.68.40.67/life/k1_3/index.m3u8
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:-1 tvg-id="112-ua" tvg-logo="https://selincodes.github.io/iptv/logo/112-ua.jpg", 112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ICTV
+http://54.38.180.196/play/647/2D6E866C992891C/video.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
@@ -19,7 +21,7 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://selincodes.github.io/iptv/logo/evrokino.jpg", Еврокино
-http://178.124.183.14/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
+http://54.38.180.196/play/96/2D6E866C992891C/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000.jpg", TV1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000-action.jpg", TV1000 Action
