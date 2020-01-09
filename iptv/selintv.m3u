@@ -74,15 +74,76 @@ http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 
 #EXTGRP: Poland
-#EXTINF:-1 =tvg-logo="http://mylogo.hopto.org/Poland/canalplus_pl_discovery.png", Discovery HD PL
-http://iptv9211.hopto.me:8000/DlrSUqOZ2k/lFcKAenHiB/31555
-#EXTINF:-1 tvg-logo="http://mylogo.hopto.org/Poland/polo_tv_pl.png" group-title="Poland", Polo TV PL
-http://iptv9211.hopto.me:8000/DlrSUqOZ2k/lFcKAenHiB/31458
-#EXTINF:-1 tvg-logo="http://mylogo.hopto.org/Poland/tvn_pl_turbo.png" group-title="Poland", TVN Turbo PL
-http://iptv9211.hopto.me:8000/DlrSUqOZ2k/lFcKAenHiB/31400
+#EXTINF:0,TVN Turbo HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15175.m3u8
+#EXTINF:0,Discovery Channel HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15213.m3u8
+#EXTINF:0,Discovery Turbo Xtra HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15212.m3u8
 
+#EXTINF:0,TV Puls 2 PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15185.m3u8
+#EXTINF:0,TV 4 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11178.m3u8
+#EXTINF:0,TV6 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/19082.m3u8
+#EXTINF:0,TVP Info HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15078.m3u8
+#EXTINF:0,TVP 1 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12810.m3u8
+#EXTINF:0,TVP 2 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12811.m3u8
+#EXTINF:0,TVP 3 Warszawa PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15077.m3u8
+#EXTINF:0,TV Puls HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/16606.m3u8
+#EXTINF:0,Disco Polo Music PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/22765.m3u8
+#EXTINF:0,Polo TV PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13517.m3u8
+#EXTINF:0,Eska TV Extra PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11182.m3u8
 
+#EXTINF:0,Ale kino+ HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15219.m3u8
+#EXTINF:0,FilmBox Action PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11508.m3u8
+#EXTINF:0,FilmBox Family PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11509.m3u8
+#EXTINF:0,Kino TV PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11507.m3u8
+#EXTINF:0,FilmBox Premium PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11510.m3u8
+#EXTINF:0,HBO HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13526.m3u8
+#EXTINF:0,HBO 2 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13527.m3u8
+#EXTINF:0,HBO 3 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15092.m3u8
+#EXTINF:0,Kino Polska PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11192.m3u8
+#EXTINF:0,Kuchnia + FHD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15210.m3u8
+#EXTINF:0,Power TV PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15187.m3u8
+#EXTINF:0,Polsat 2 HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12817.m3u8
+#EXTINF:0,Polsat Film HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15086.m3u8
+#EXTINF:0,Polsat HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11696.m3u8
+#EXTINF:0, Polsat News HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15085.m3u8
 
+#EXTINF:0,MiniMini + HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15088.m3u8
+#EXTINF:0,Disney Junior PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15200.m3u8
+
+#EXTINF:0,13 Ulica HD PL
+http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15100.m3u8
+
+#EXTGRP: Others
 #EXTINF:-1, МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
