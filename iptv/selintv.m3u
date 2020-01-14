@@ -4,8 +4,14 @@
 #EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
 http://54.38.180.196/play/400/2D6E866C992891C/video.m3u8
 
+#EXTINF:-1, 1+1 HD
+http://193.33.39.106:8783
+
 #EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+
+#EXTINF:-1, НЛО TV
+http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 
 #EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
 http://78.26.128.52:6666
