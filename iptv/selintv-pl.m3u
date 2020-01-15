@@ -1,71 +1,191 @@
-#EXTM3U url-tvg="https://epg-polska.net/guide.xml.gz" refresh="3600"
-
-
-#EXTINF:0,TVN Turbo HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15175.m3u8
-#EXTINF:0,Discovery Channel HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15213.m3u8
-#EXTINF:0,Discovery Turbo Xtra HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15212.m3u8
-
-#EXTINF:0,TV Puls 2 PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15185.m3u8
-#EXTINF:0,TV 4 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11178.m3u8
-#EXTINF:0,TV6 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/19082.m3u8
-#EXTINF:0,TVP Info HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15078.m3u8
-#EXTINF:0,TVP 1 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12810.m3u8
-#EXTINF:0,TVP 2 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12811.m3u8
-#EXTINF:0,TVP 3 Warszawa PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15077.m3u8
-#EXTINF:0,TV Puls HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/16606.m3u8
-#EXTINF:0,Disco Polo Music PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/22765.m3u8
-#EXTINF:0,Polo TV PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13517.m3u8
-#EXTINF:0,Eska TV Extra PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11182.m3u8
-
-#EXTINF:0,Ale kino+ HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15219.m3u8
-#EXTINF:0,FilmBox Action PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11508.m3u8
-#EXTINF:0,FilmBox Family PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11509.m3u8
-#EXTINF:0,Kino TV PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11507.m3u8
-#EXTINF:0,FilmBox Premium PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11510.m3u8
-#EXTINF:0,HBO HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13526.m3u8
-#EXTINF:0,HBO 2 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/13527.m3u8
-#EXTINF:0,HBO 3 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15092.m3u8
-#EXTINF:0,Kino Polska PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11192.m3u8
-#EXTINF:0,Kuchnia + FHD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15210.m3u8
-#EXTINF:0,Power TV PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15187.m3u8
-#EXTINF:0,Polsat 2 HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/12817.m3u8
-#EXTINF:0,Polsat Film HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15086.m3u8
-#EXTINF:0,Polsat HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/11696.m3u8
-#EXTINF:0, Polsat News HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15085.m3u8
-
-#EXTINF:0,MiniMini + HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15088.m3u8
-#EXTINF:0,Disney Junior PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15200.m3u8
-
-#EXTINF:0,13 Ulica HD PL
-http://cloudcdn.tk:80/live/mirlinda/Yb5Xqa18/15100.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP 1
+http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP 2
+http://internetowa.tv/?c=hlsPlay&channel=tvp2-test&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN
+http://internetowa.tv/?c=hlsPlay&channel=tvn&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN 7
+http://internetowa.tv/?c=hlsPlay&channel=tvn7&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat
+http://internetowa.tv/?c=hlsPlay&channel=polsat&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TV 4
+http://internetowa.tv/?c=hlsPlay&channel=tv4&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat 2
+http://internetowa.tv/?c=hlsPlay&channel=polsat2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TV Puls
+http://internetowa.tv/?c=hlsPlay&channel=tvpuls&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Polonia
+http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TV 6
+http://internetowa.tv/?c=hlsPlay&channel=tv6&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TTV
+http://internetowa.tv/?c=hlsPlay&channel=ttv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Puls 2
+http://internetowa.tv/?c=hlsPlay&channel=tvpuls2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Info
+http://internetowa.tv/?c=hlsPlay&channel=tvpinfo&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN 24
+http://internetowa.tv/?c=hlsPlay&channel=tvn24&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN 24 BiS
+http://internetowa.tv/?c=hlsPlay&channel=tvn24bis&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat News
+http://internetowa.tv/?c=hlsPlay&channel=polsatnews&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Republika TV
+http://internetowa.tv/?c=hlsPlay&channel=republikatv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+
+http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Film
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Family
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,HBO
+http://internetowa.tv/?c=hlsPlay&channel=hbo&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,HBO 2
+http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,HBO 3
+http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN Fabuła
+http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,AXN
+http://internetowa.tv/?c=hlsPlay&channel=axn&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,13 Ulica
+http://internetowa.tv/?c=hlsPlay&channel=13ulica&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Film
+http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Kino Polska
+http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Cafe
+http://internetowa.tv/?c=hlsPlay&channel=polsatcafe&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Play
+http://internetowa.tv/?c=hlsPlay&channel=polsatplay&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Seriale
+http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Cinemax
+http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Cinemax 2
+http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,FOX
+http://internetowa.tv/?c=hlsPlay&channel=fox&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Seriale
+http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Comedy Central
+http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Crime+Investigation Polsat
+http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Rozrywka
+http://internetowa.tv/?c=hlsPlay&channel=tvprozrywka&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,FOX Comedy
+http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Kino TV
+http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Filmbox Action
+http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Filmbox Family
+http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Kuchnia+
+http://internetowa.tv/?c=hlsPlay&channel=kuchniaplus&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Sport
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Sport 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2-test&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eurosport 1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eurosport 2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Sport
+http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,nSport+
+http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eleven Sports 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eleven Sports 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Eleven Sports 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Extra
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Premium 1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Premium 2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Premium 3
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Premium 4
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport Fight
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Sport News
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Extreme Sports Channel
+http://internetowa.tv/?c=hlsPlay&channel=extremesports&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TLC
+http://internetowa.tv/?c=hlsPlay&channel=tlc&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Discovery Channel
+http://internetowa.tv/?c=hlsPlay&channel=discovery&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Discovery Science
+http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,National Geographic
+http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,National Geographic Wild
+http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN Style
+http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVN Turbo
+http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP Historia
+http://internetowa.tv/?c=hlsPlay&channel=tvphistoria&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Fokus TV
+http://internetowa.tv/?c=hlsPlay&channel=fokus-tv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,History
+http://internetowa.tv/?c=hlsPlay&channel=history&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Canal+ Discovery
+http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Doku
+http://internetowa.tv/?c=hlsPlay&channel=polsatdoku&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Viasat Explore
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Viasat History
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polsat Viasat Nature
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Nat Geo People
+http://internetowa.tv/?c=hlsPlay&channel=natgeopeople&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Planete+
+http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Animal Planet
+http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Minimini+
+http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Cartoon Network
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP ABC
+http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,MTV
+http://internetowa.tv/?c=hlsPlay&channel=mtvpolska&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Antyradio
+http://internetowa.tv/?c=hlsPlay&channel=antyradio&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polskie Radio Program 1
+http://internetowa.tv/?c=hlsPlay&channel=jedynkapolskieradio&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polskie Radio Program 2
+http://internetowa.tv/?c=hlsPlay&channel=dwojkapolskieradio&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polskie Radio Program 3
+http://internetowa.tv/?c=hlsPlay&channel=trojkapolskieradio&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Radio Zet
+http://internetowa.tv/?c=hlsPlay&channel=radiozet&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,RMF FM
+http://internetowa.tv/?c=hlsPlay&channel=rmffm&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,RMF Maxxx
+http://internetowa.tv/?c=hlsPlay&channel=rmfmaxxx&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,RMF Classic
+http://internetowa.tv/?c=hlsPlay&channel=rmfclassic&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,ESKA TV
+http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Polo TV
+http://internetowa.tv/?c=hlsPlay&channel=polotv&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
+#EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,Disco Polo Music
+http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
