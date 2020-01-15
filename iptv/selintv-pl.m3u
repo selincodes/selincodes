@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg-polska.net/guide.xml.gz" refresh="3600"
+
 #EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP 1
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=efc9946b8177f03d94a119082ea6e5aa51d4da78a45d7aa2fb57d7efb0f83e0f14d4334ecf5d8bf5aba49b83c3915bce9222dcf4f960a736043dc08d783fb5bf
 #EXTINF:-1 tvg-logo="https://epremki.com/images/focus/logo1.png" ,TVP 2
