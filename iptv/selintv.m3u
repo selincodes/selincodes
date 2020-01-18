@@ -1,35 +1,47 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 
 
+#EXTGRP: Познавательные
+# 1+1
 #EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
 http://54.38.180.196/play/400/2D6E866C992891C/video.m3u8
-
-#EXTINF:-1, 1+1 HD
+# 1+1 HD
+#EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1 HD
 http://193.33.39.106:8783
-
+# Интер
 #EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-
+# НЛО TV
 #EXTINF:-1 tvg-id="nlo-tv-ua", НЛО TV
 http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-
+# Украина
 #EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
 http://5.61.48.23/9Hu153p8xa8u2ipnODKFl03Y/44/stream.m3u8
-
-#EXTINF:-1, СТБ
+# СТБ
+#EXTINF:-1 tvg-id="stb-ua" tvg-logo="https://selincodes.github.io/iptv/logo/stb-ua.jpg", СТБ
 http://188.35.9.11:2002
-
+# ICTV
+#EXTINF:-1 tvg-id="ictv-ua" tvg-logo="https://selincodes.github.io/iptv/logo/ictv-ua.jpg", ICTV
+http://217.21.34.158:30000/ICTV/index.m3u8
+# К1
 #EXTINF:-1 tvg-id="k1-ua" tvg-logo="https://selincodes.github.io/iptv/logo/k1-ua.jpg", К1
 http://109.68.40.67/life/k1_3/index.m3u8
-
+# НТН
 #EXTINF:-1 tvg-id="ntn-ua" tvg-logo="https://selincodes.github.io/iptv/logo/ntn-ua.jpg", НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-
+http://109.68.41.148:1935/l
+# 112 Украина HD
 #EXTINF:-1 tvg-id="112-ua" tvg-logo="https://selincodes.github.io/iptv/logo/112-ua.jpg", 112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+# Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
+#http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+http://178.163.27.106:4022/udp/234.0.0.172:2000
 
-#EXTINF:-1 tvg-id="" tvg-logo="", ICTV
-http://217.21.34.158:30000/ICTV/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1,ТК Одесса
 http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
@@ -37,8 +49,7 @@ http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
 #EXTINF: -1, Новый Канал
 http://212.79.122.11:5093/udp/239.255.6.21:1234
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+
 
 #EXTINF:59,РТР Россия
 http://5.61.48.23/9Hu153p8xa8u2ipnODKFl03Y/59/stream.m3u8
