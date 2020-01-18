@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 
 
-#EXTGRP: Познавательные
+#EXTGRP: Общие
 # 1+1
 #EXTINF:-1 tvg-id="1plus1" tvg-logo="https://selincodes.github.io/iptv/logo/1plus1.jpg", 1+1
 http://54.38.180.196/play/400/2D6E866C992891C/video.m3u8
@@ -11,6 +11,8 @@ http://193.33.39.106:8783
 # Интер
 #EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://selincodes.github.io/iptv/logo/inter-ua.jpg", Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#http://lb1.macc.com.ua/img/inter_2/index.m3u8
 # НЛО TV
 #EXTINF:-1 tvg-id="nlo-tv-ua", НЛО TV
 http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
@@ -34,43 +36,32 @@ http://109.68.41.148:1935/l
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 # Первый канал
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://selincodes.github.io/iptv/logo/pervy.jpg", Первый канал
-#http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
-http://178.163.27.106:4022/udp/234.0.0.172:2000
-
-
-
-
-
-
-
-#EXTINF:-1,ТК Одесса
-http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
-
-#EXTINF: -1, Новый Канал
-http://212.79.122.11:5093/udp/239.255.6.21:1234
-
-
-
-#EXTINF:59,РТР Россия
-http://5.61.48.23/9Hu153p8xa8u2ipnODKFl03Y/59/stream.m3u8
-
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#http://178.163.27.106:4022/udp/234.0.0.172:2000
+# НТВ
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://selincodes.github.io/iptv/logo/ntv.jpg", НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+# РТР Россия
+#EXTINF:59 tvg-id="ntv" tvg-logo="https://selincodes.github.io/iptv/logo/ntv.jpg", РТР Россия
+http://5.61.48.23/9Hu153p8xa8u2ipnODKFl03Y/59/stream.m3u8
+# Квартал ТВ
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-logo="https://selincodes.github.io/iptv/logo/kvartal-tv.jpg", Квартал ТВ
+https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8
 
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://selincodes.github.io/iptv/logo/evrokino.jpg", Еврокино
-http://54.38.180.196/play/96/2D6E866C992891C/video.m3u8
-
+#EXTGRP: Фильмы
+# Еврокино
+##EXTINF:-1 tvg-id="evrokino" tvg-logo="https://selincodes.github.io/iptv/logo/evrokino.jpg", Еврокино
+#http://54.38.180.196/play/96/2D6E866C992891C/video.m3u8
+# TV1000
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000.jpg", TV1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
-
+# TV1000 Action
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000-action.jpg", TV1000 Action
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
-
+# TV1000 Русское кино
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://selincodes.github.io/iptv/logo/tv1000-russkoe-kino.jpg", TV1000 Русское кино
 http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
 
-#EXTINF:0, OХОТНИК И РЫБОЛОВ HD
-http://185.93.3.83:5010/play/a00m
 
 #EXTGRP: Познавательные
 #EXTINF:-1, История
@@ -102,7 +93,34 @@ http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
 #EXTINF:-1, Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 
-#EXTGRP: Others
+#EXTGRP:Развлекательные
+#EXTINF:-1, ТНТ HD (auto)
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:-1, СТС
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1, ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565880177/02c722166c67789201c2563e9dad203f/playlist.m3u8
+#EXTINF:-1, Супер HD
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+
+#EXTGRP: Без сортировки
+#EXTINF:-1,ТК Одесса
+http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
+
+#EXTINF: -1, Новый Канал
+http://212.79.122.11:5093/udp/239.255.6.21:1234
+
+
+
+
+
+
+
+
+
+#EXTINF:0, OХОТНИК И РЫБОЛОВ HD
+http://185.93.3.83:5010/play/a00m
+
 #EXTINF:-1, МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
@@ -120,16 +138,3 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,7 канал Одесса HD
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
 
-#EXTGRP:Развлекательные
-
-#EXTINF:-1, ТНТ HD (auto)
-https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
-
-#EXTINF:-1, СТС
-http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-
-#EXTINF:-1, ТНТ4
-https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565880177/02c722166c67789201c2563e9dad203f/playlist.m3u8
-
-#EXTINF:-1, Супер HD
-http://85.112.114.11:8086/udp/238.2.49.249:1234
