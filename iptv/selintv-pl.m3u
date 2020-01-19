@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg-polska.net/guide.xml.gz" refresh="3600"
 
- #EXTINF:-1,TVN FHD PL
+#EXTINF:-1,TVN FHD PL
 http://iptv.cableguy.pro.streamtv.to:808...HlDfyd/839
 #EXTINF:-1,TVN HD PL
 http://iptv.cableguy.pro.streamtv.to:808...HlDfyd/892
