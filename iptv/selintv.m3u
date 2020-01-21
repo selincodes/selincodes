@@ -18,11 +18,12 @@ http://lb1.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-id="nlo-tv-ua" tvg-logo="https://selincodes.github.io/iptv/logo/nlo-tv-ua.jpg", НЛО TV
 http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 # Украина
-#EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина (Временно не работает)
-http://5.61.48.23/9Hu153p8xa8u2ipnODKFl03Y/44/stream.m3u8
+#EXTINF:-1 tvg-id="ukraina" tvg-logo="https://selincodes.github.io/iptv/logo/ukraina.jpg", Украина
+http://5.61.48.23/IOcm1vQdNXVkLiKOKwdXL99w/44/stream.m3u8
 # СТБ
 #EXTINF:-1 tvg-id="stb-ua" tvg-logo="https://selincodes.github.io/iptv/logo/stb-ua.jpg", СТБ
 #http://188.35.9.11:2002
+#http://5.61.48.23/IOcm1vQdNXVkLiKOKwdXL99w/47/stream.m3u8
 http://188.35.9.11:11021/j
 # ICTV
 #EXTINF:-1 tvg-id="ictv-ua" tvg-logo="https://selincodes.github.io/iptv/logo/ictv-ua.jpg", ICTV
@@ -70,8 +71,8 @@ http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
 #EXTGRP: Познавательные
 #EXTINF:-1, История (Временно не работает)
 http://45.143.205.112:1000/play/istoriya/index.m3u8
-#EXTINF:-1, Discovery Channel HD (Временно не работает)
-http://217.25.216.4:8085/udp/238.2.16.147:1234
+#EXTINF:-1, Discovery Channel HD
+http://5.61.48.23/IOcm1vQdNXVkLiKOKwdXL99w/80/stream.m3u8
 #EXTINF:-1, Viasat History
 https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
 #EXTINF:-1, Авто Плюс
